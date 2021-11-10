@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @j2vi Vitaly Anischenko
+- 🌍 I'm speak Russian 🇷🇺 and English 🇬🇧
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python
 - 💞️ I’m looking to collaborate on Front-End
