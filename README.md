@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @j2vi
+- 👋 Hi, I’m @j2vi Vitaly Anischenko
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python
 - 💞️ I’m looking to collaborate on Front-End
-- 📫 How to reach me j2vi.github.io
+- 📫 How to reach me [j2vi.github.io](https://j2vi.github.io)
 
 <!---
 j2vi/j2vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
