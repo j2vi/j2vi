@@ -18,6 +18,10 @@ _Additional_
 
 - CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
+---
+
+![j2vi logo](./logo/j2vi.png)
+
 <!---
 j2vi/j2vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
