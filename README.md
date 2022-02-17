@@ -18,6 +18,12 @@ _Additional_
 
 - CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
+### My own favorite quotes
+
+> 1. Action is the best weapon against depression!
+> 2. The pain costs dear. But freedom even more dearest!
+> 3. Your dreams must be stronger your fears!
+
 ---
 
 ![j2vi logo](./logo/j2vi.png)
