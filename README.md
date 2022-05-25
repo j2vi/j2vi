@@ -7,14 +7,13 @@
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me vitaly92a@gmail.com
 
-### My Personal Web Page
+### My Contacts ans Proftolio
 
-_Primary_
+_Social Media_
 
-- GitHub Pages Link: [j2vi.github.io](https://j2vi.github.io)
-- Official Web-Site: [j-2vi.com](https://j-2vi.com)
+- Linkedin Page: [linkedin.com/in/vitaly-anischenko-783475195](https://www.linkedin.com/in/vitaly-anischenko-783475195)
 
-_Additional_
+_Portfolio_
 
 - CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
