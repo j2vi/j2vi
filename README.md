@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me vitaly92a@gmail.com
 
-### My Contacts ans Proftolio
+### My Contacts and Proftolio
 
 _Social Media_
 
