@@ -15,7 +15,7 @@ _Social Media_
 
 _Portfolio_
 
-- Netlify ("webdev_portfolio" repo in GitHub) [https://j2vi-portfolio.netlify.app](https://j2vi-portfolio.netlify.app/)
+- Netlify (["demowebdev"](https://demowebdev.netlify.app/) repo in GitHub)
 - CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
 ### My own favorite quotes
