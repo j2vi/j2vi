@@ -1,4 +1,4 @@
-### Greetings!
+# Greetings 👋
 
 - 👋 Hi, I’m @j2vi(Vitaly Anischenko)
 - 🌍 I speak English and Russian
@@ -7,18 +7,23 @@
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me vitaly92a@gmail.com
 
-### My Contacts and Proftolio
+## My Contacts and Proftolio
 
-_Social Media_
+### Social Media
 
 - Linkedin Page: [linkedin.com/in/vitaly-anischenko-783475195](https://www.linkedin.com/in/vitaly-anischenko-783475195)
 
-_Portfolio_
+### Portfolio
 
 - Netlify (["demowebdev"](https://demowebdev.netlify.app/) repo in GitHub)
 - CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
-### My own favorite quotes
+### Other
+
+- Documentation ([docbox](../docbox/README.md))
+- Wallets ([wallets-j2vi](../wallets-j2vi/README.md))
+
+#### My own favorite quotes
 
 > 1. Action is the best weapon against depression!
 > 2. The pain costs dear. But freedom even more dearest!
