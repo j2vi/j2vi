@@ -20,8 +20,8 @@
 
 ### Other
 
-- Documentation ([docbox](https://github.com/j2vi/docbox/README.md))
-- Wallets ([wallets-j2vi](https://github.com/j2vi/wallets-j2vi/README.md))
+- Documentation ([docbox](https://github.com/j2vi/docbox/))
+- Wallets ([wallets-j2vi](https://github.com/j2vi/wallets-j2vi/))
 
 #### My own favorite quotes
 
