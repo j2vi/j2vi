@@ -31,7 +31,7 @@
 
 ---
 
-![j2vi logo](./logo/j2vi_web3.png)
+![j2vi logo](./logo/j2vi_web3_.png)
 
 <!---
 j2vi/j2vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
