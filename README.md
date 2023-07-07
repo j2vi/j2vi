@@ -5,18 +5,18 @@
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python
 - 💞️ I’m looking to collaborate on Front-End
-- 📫 How to reach me vitaly92a@gmail.com
+- 📫 How to reach me [vitaly92a@gmail.com](mailto:vitaly92a@gmail.com)
 
 ## My Contacts and Proftolio
 
 ### Social Media
 
 - Linkedin Page: [linkedin.com/in/vitaly-anischenko-783475195](https://www.linkedin.com/in/vitaly-anischenko-783475195)
+- CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
 ### Portfolio
 
 - Netlify (["demowebdev"](https://demowebdev.netlify.app/) repo in GitHub)
-- CodePen: [codepen.io/j2vi](https://codepen.io/j2vi)
 
 ### Other
 
