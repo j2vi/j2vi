@@ -16,7 +16,7 @@
 
 ### Portfolio
 
-- Netlify (["demowebdev"](https://demowebdev.netlify.app/) repo in GitHub)
+- Repo in Github: [demowebdev](https://github.com/j2vi/demowebdev/)
 
 ### Other
 
